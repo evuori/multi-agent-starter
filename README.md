@@ -2,6 +2,9 @@
 
 A sophisticated multi-agent starter that intelligently routes and answers questions using Claude 3 Sonnet. The system automatically determines whether a question is technical or general and routes it to the appropriate specialized agent. This solution could be easily extended to support more agents. Another improvement would be to add tools to existing agents. 
 
+## Overview
+![Multi-agent starter architecture](static/multi-agent-starter.png)
+
 ## Features
 
 - Intelligent question type detection
